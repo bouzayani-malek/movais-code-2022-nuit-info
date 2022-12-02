@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/movais-code-2022-nuit-info/static/css/main.daa1368a.css",
+    "main.js": "/movais-code-2022-nuit-info/static/js/main.8f987266.js",
+    "static/media/fa-solid-900.svg": "/movais-code-2022-nuit-info/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/movais-code-2022-nuit-info/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/sida1.png": "/movais-code-2022-nuit-info/static/media/sida1.88002d54055ff1954959.png",
+    "static/media/sida3.png": "/movais-code-2022-nuit-info/static/media/sida3.1385995211bb155e2c34.png",
+    "static/media/sida4.jpg": "/movais-code-2022-nuit-info/static/media/sida4.754a60c4a8928d206e84.jpg",
+    "static/media/sida6.jpg": "/movais-code-2022-nuit-info/static/media/sida6.2110379ee23af3abb3db.jpg",
+    "static/media/sida5.jpg": "/movais-code-2022-nuit-info/static/media/sida5.359b9875e1196b0ce6ff.jpg",
+    "static/media/fa-solid-900.eot": "/movais-code-2022-nuit-info/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/movais-code-2022-nuit-info/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/fa-regular-400.svg": "/movais-code-2022-nuit-info/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/Room.jpeg": "/movais-code-2022-nuit-info/static/media/Room.29bc2d0399bcf5a3db9a.jpeg",
+    "static/media/fa-brands-400.eot": "/movais-code-2022-nuit-info/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/movais-code-2022-nuit-info/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/logo.png": "/movais-code-2022-nuit-info/static/media/logo.eae23b7338b31765c379.png",
+    "static/media/fa-solid-900.woff": "/movais-code-2022-nuit-info/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/fa-brands-400.woff": "/movais-code-2022-nuit-info/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/fa-solid-900.woff2": "/movais-code-2022-nuit-info/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/movais-code-2022-nuit-info/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/smile.jpg": "/movais-code-2022-nuit-info/static/media/smile.9151fd16076981cafc01.jpg",
+    "static/media/fa-regular-400.eot": "/movais-code-2022-nuit-info/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/movais-code-2022-nuit-info/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/erreur.png": "/movais-code-2022-nuit-info/static/media/erreur.a0a9147daf0aac4438fd.png",
+    "static/media/fa-regular-400.woff": "/movais-code-2022-nuit-info/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/fa-regular-400.woff2": "/movais-code-2022-nuit-info/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "index.html": "/movais-code-2022-nuit-info/index.html",
+    "main.daa1368a.css.map": "/movais-code-2022-nuit-info/static/css/main.daa1368a.css.map",
+    "main.8f987266.js.map": "/movais-code-2022-nuit-info/static/js/main.8f987266.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa1368a.css",
+    "static/js/main.8f987266.js"
+  ]
+}
